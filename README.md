@@ -19,7 +19,6 @@ If you are interested in getting to know me, please follow the account <a href="
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.linkedin.com/in/muhammad-royhan-fadhli-7b2aa5167/">Linkedin Ku </a>
 
 
