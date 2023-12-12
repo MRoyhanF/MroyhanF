@@ -21,7 +21,6 @@ If you are interested in getting to know me, please follow the account <a href="
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.linkedin.com/in/muhammad-royhan-fadhli-7b2aa5167/">Linkedin Ku </a>
 
-
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/MRoyhanF">
