@@ -12,10 +12,10 @@
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/muhammad-fiaz" target="_blank">
+  <img src="https://profile-counter.glitch.me/MroyhanF/count.svg"  alt="profile vistor count"/><br><br>
+    <a href="https://github.com/MroyhanF" target="_blank">
       
-[![Follow me on GitHub](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social)](https://github.com/muhammad-fiaz)
+[![Follow me on GitHub](https://img.shields.io/github/followers/MroyhanF?label=Follow&style=social)](https://github.com/MroyhanF)
 
 </a>
   <br>
