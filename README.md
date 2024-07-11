@@ -28,7 +28,7 @@
  <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
- <code><img src="assets/images/flask-svgrepo-com.svg" height="40"></code>
+ <code><img src="https://raw.githubusercontent.com/fajrCode/fajrCode/main/assets/images/flask-svgrepo-com.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
