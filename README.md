@@ -49,7 +49,11 @@
 Currently still learning, and still stuck about everything
 
 - 💬 ask me about anything, i am happy to help;
-If you are interested in getting to know me, please follow the account [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/) 
+- If you are interested in getting to know me, please follow the account
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/) 
+[![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/royhanfadhl.i/)
+
 
 <div align="center">
 <a href="https://github.com/fajrCode">
