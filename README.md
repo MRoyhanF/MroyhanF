@@ -53,11 +53,3 @@ Currently still learning, and still stuck about everything
 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/) 
 [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/royhanfadhl.i/)
-
-
-<div align="center">
-<a href="https://github.com/MRoyhanF">
-  <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MRoyhanF&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=MRoyhanF&theme=vue-dark&hide_border=true&count_private=true"/>
-</a>
-</div>
