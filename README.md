@@ -35,33 +35,27 @@
 [![Static Badge](https://img.shields.io/badge/My-Linkedin-blue?style=plastic&label=My&color=%231477D1)](https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/)
 [![Saweria](https://img.shields.io/badge/Support-Me-blue?style=flat&logo=Buy%20Me%20A%20Coffee&label=support&color=%23FFDD00&cacheSeconds=https%3A%2F%2Fsaweria.co%2Ffroyhan)](https://saweria.co/froyhan)
 
-
-
-  <div>
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=MRoyhanF&theme=radical&hide_border=true&include_all_commits=false&count_private=false) -->
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRoyhanF&theme=vision_friendly_dark)
-
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRoyhanF&theme=vision_friendly_dark)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRoyhanF&theme=vision_friendly_dark)
-
-  </div>
-
-</div>
-
-<img src="./assets/line.gif" width="100%" alt="marginline"/>
-
 <details>
   <summary>My Tech ⚡</summary>
   
   ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,php,python,nodejs,react,alpinejs,next,express,laravel,flask,tailwind,bootstrap,vite,npm,jest,babel,md,jquery,mysql,postgresql,mongodb,firebase,sequelize,prisma,docker,googlecloud,linux,postman,powershell,figma)
 </details>
 
+
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats 📊</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=MRoyhanF&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <div align="center">
+    
+  ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRoyhanF&theme=vision_friendly_dark)
+    
+  <div style="display: flex; justify-content: center; gap: 10px;">
+  
+  ![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRoyhanF&theme=vision_friendly_dark)
+  ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRoyhanF&theme=vision_friendly_dark)
+    </div>
+  </div>
 </details>
+</div>
+
+<img src="./assets/line.gif" width="100%" alt="marginline"/>
