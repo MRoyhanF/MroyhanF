@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Royhan+Fadhli+and+Welcome+to+my+Profile!" alt="Hey, I'm Muhammad Royhan Fadhli and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
   <img src="./assets/fire.gif" width="1.75%" align="right" alt="flame2"/>
   <!-- Description -->
+<img src="./assets/line.gif" width="100%" alt="marginline"/>
   <p>
   🚀 Hi there! I'm a final-year student passionate about all things technology 🌐. While I explore various tech fields, my current journey focuses on mastering Web Development 🖥️. I love crafting modern, responsive, and interactive web applications using tools like React, Laravel, and Tailwind CSS ⚡. My goal is to become a skilled full-stack developer while contributing to open-source projects 🤝. Outside of coding, you’ll find me exploring the latest tech trends or solving fun programming challenges 🎯. Let’s connect and build something amazing together! 💡
   </p>
@@ -36,14 +37,14 @@
 [![Saweria](https://img.shields.io/badge/Support-Me-blue?style=flat&logo=Buy%20Me%20A%20Coffee&label=support&color=%23FFDD00&cacheSeconds=https%3A%2F%2Fsaweria.co%2Ffroyhan)](https://saweria.co/froyhan)
 
 <details>
-  <summary>My Tech ⚡</summary>
+  <summary><b>My Tech ⚡</b></summary>
   
   ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,php,python,nodejs,react,alpinejs,next,express,laravel,flask,tailwind,bootstrap,vite,npm,jest,babel,md,jquery,mysql,postgresql,mongodb,firebase,sequelize,prisma,docker,googlecloud,linux,postman,powershell,figma)
 </details>
 
 
 <details>
-  <summary>Github Stats 📊</summary>
+  <summary><b>Github Stats 📊</b></summary>
   
   <div align="center">
     
@@ -59,3 +60,4 @@
 </div>
 
 <img src="./assets/line.gif" width="100%" alt="marginline"/>
+<img src="./assets/run.gif" width="100%" alt="marginline"/>
