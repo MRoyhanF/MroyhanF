@@ -1,55 +1,67 @@
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/59163c56-55ac-4813-b4aa-b57082e708e6" align="middle" alt="Banner" width="100%"/>
-
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<!-- Header -->
+<img src="./assets/banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/line.gif" width="100%" alt="marginline"/>
 <div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="left" alt="flame1"/>
+  <img src="./assets/fire.gif" width="1.75%" align="left" alt="flame1"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Royhan+Fadhli+and+Welcome+to+my+Profile!" alt="Hey, I'm Muhammad Royhan Fadhli and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="1.75%" align="right" alt="flame2"/>
+  <img src="./assets/fire.gif" width="1.75%" align="right" alt="flame2"/>
+  <!-- Description -->
+  <p>
+  🚀 Hi there! I'm a final-year student passionate about all things technology 🌐. While I explore various tech fields, my current journey focuses on mastering Web Development 🖥️. I love crafting modern, responsive, and interactive web applications using tools like React, Laravel, and Tailwind CSS ⚡. My goal is to become a skilled full-stack developer while contributing to open-source projects 🤝. Outside of coding, you’ll find me exploring the latest tech trends or solving fun programming challenges 🎯. Let’s connect and build something amazing together! 💡
+  </p>
+  <div>
+  
+  </div>
+  <h2> 
+    <img src="./assets/fire.gif" height="24px" alt="flame"/> 
+    Self-taught and passionate about coding! 
+    <img src="./assets/fire.gif" height="24px" alt="flame"/> 
+  </h2>
 </div>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/68ba38fe-129a-4d85-be33-62eb4ba50c05"  width="100%" alt="marginline"/>
+<img src="./assets/line.gif" width="100%" alt="marginline"/>
 
+<!-- List Tech -->
 <div align="center"> 
-<p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/MroyhanF/count.svg"  alt="profile vistor count"/><br><br>
-    <a href="https://github.com/MroyhanF" target="_blank">
-      
-[![Follow me on GitHub](https://img.shields.io/github/followers/MroyhanF?label=Follow&style=social)](https://github.com/MroyhanF)
+    <img src="https://profile-counter.glitch.me/MroyhanF/count.svg"  alt="profile vistor count"/><br><br>
+  <a href="https://github.com/MroyhanF" target="_blank">
 
-</a>
-  <br>
+  [![Follow me on GitHub](https://img.shields.io/github/followers/MroyhanF?label=Follow&style=social)](https://github.com/MroyhanF)
+
+  </a>
+
+[![Discord](https://img.shields.io/badge/My-Discord-blue?style=plastic&logo=Discord&logoColor=%23FFFFFF&label=My&color=%235865F2)](https://discord.gg/542641385807937544) 
+[![Instagram](https://img.shields.io/badge/My-Instagram-red?style=plastic&logo=Instagram&logoColor=%23FFFFFF&label=My&color=%23FF0069)](https://instagram.com/royhanfadhl.i) 
+[![Static Badge](https://img.shields.io/badge/My-Linkedin-blue?style=plastic&label=My&color=%231477D1)](https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/)
+[![Saweria](https://img.shields.io/badge/Support-Me-blue?style=flat&logo=Buy%20Me%20A%20Coffee&label=support&color=%23FFDD00&cacheSeconds=https%3A%2F%2Fsaweria.co%2Ffroyhan)](https://saweria.co/froyhan)
+
+
+
+  <div>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=MRoyhanF&theme=radical&hide_border=true&include_all_commits=false&count_private=false) -->
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRoyhanF&theme=vision_friendly_dark)
+
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRoyhanF&theme=vision_friendly_dark)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRoyhanF&theme=vision_friendly_dark)
+
+  </div>
+
 </div>
-<br>
-<br>
-<div align="center">
- <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
- <code><img src="https://raw.githubusercontent.com/fajrCode/fajrCode/main/assets/images/flask-svgrepo-com.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/374035/reactts.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/355133/mysql.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/530444/availability.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/530439/api-interface.svg" height="40"></code>
-</div>
-<br>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> Self-taught and passionate about coding! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<img src="./assets/line.gif" width="100%" alt="marginline"/>
 
+<details>
+  <summary>My Tech ⚡</summary>
+  
+  ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,php,python,nodejs,react,alpinejs,next,express,laravel,flask,tailwind,bootstrap,vite,npm,jest,babel,md,jquery,mysql,postgresql,mongodb,firebase,sequelize,prisma,docker,googlecloud,linux,postman,powershell,figma)
+</details>
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Muhamad Royhan Fadhli!
-
-Currently still learning, and still stuck about everything
-
-- 💬 ask me about anything, i am happy to help;
-- If you are interested in getting to know me, please follow the account
-
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/muhamad-royhan-fadhli-7b2aa5167/) 
-[![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/royhanfadhl.i/)
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=MRoyhanF&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+</details>
